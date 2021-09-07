@@ -64,6 +64,8 @@ Mem[0] = 2;
 Mem[1] = 3;
 Mem[2] = 4;
 
+![Screenshot](Capture-mips.png)
+
 Results Explained:
 1st positive clock edge - Instruction is add: R3, R1, R2. It takes values from R1 and R2 which is 7
 and 21 and the result of addition i.e. 28 is stored in R3.
