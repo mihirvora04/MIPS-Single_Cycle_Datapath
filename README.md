@@ -1,4 +1,6 @@
-# MIPS-Datapath
+# MIPS Single_Cycle Datapath Implementation
+
+The simulations are done using Xilinx ISE
 
 Different Modules and their function:
 1) PC (Program Counter) – Gives the address in the memory where the instruction to be
