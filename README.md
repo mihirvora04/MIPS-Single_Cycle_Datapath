@@ -64,7 +64,7 @@ Mem[0] = 2;
 Mem[1] = 3;
 Mem[2] = 4;
 
-![Screenshot](Capture-mips.png)
+![Screenshot](Capture-mips.PNG)
 
 Results Explained:
 1st positive clock edge - Instruction is add: R3, R1, R2. It takes values from R1 and R2 which is 7
